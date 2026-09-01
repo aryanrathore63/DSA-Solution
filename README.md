@@ -6,6 +6,7 @@ THis Is All Leetcode Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryanrathore63/DSA-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryanrathore63/DSA-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/aryanrathore63/DSA-Solution/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -28,4 +29,12 @@ THis Is All Leetcode Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryanrathore63/DSA-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryanrathore63/DSA-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryanrathore63/DSA-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
