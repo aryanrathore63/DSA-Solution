@@ -32,9 +32,19 @@ THis Is All Leetcode Solution
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryanrathore63/DSA-Solution/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryanrathore63/DSA-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryanrathore63/DSA-Solution/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryanrathore63/DSA-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryanrathore63/DSA-Solution/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryanrathore63/DSA-Solution/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
